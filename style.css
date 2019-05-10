@@ -2,16 +2,16 @@
     margin: 0;
 }
 
-#header{
-    
-    z-index: 1;
-    margin:auto;
-}
 
 body {
     background-color: rgb(35,61,77);
 }
 
+#header{
+    
+    z-index: 1;
+    margin:auto;
+}
 
 #portfolio {
     max-width: 500px;

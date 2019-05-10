@@ -2,7 +2,7 @@ var circle1x=102;
 var circle1dir=-1;
  
 function setup() {
-  createCanvas(500, 1000);
+  createCanvas(500, 500);
 }
   
 function draw() {
